@@ -4,7 +4,7 @@ import os
 import cv2
 from sklearn.cluster import KMeans
 
-cale = r'imagini'  # calea catre folderul cu iamgini
+cale = r'imagini'  # calea catre folderul cu imagini
 lista_putere = []
 lista_modificarea_contrastului = []
 lista_clipping = []
